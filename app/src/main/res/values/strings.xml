@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Retrofit</string>
+    <string name="no_connection_description">Por favor verifique sua conexão e tente novamente.</string>
+</resources>
